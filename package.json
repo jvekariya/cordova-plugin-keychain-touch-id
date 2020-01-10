@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjhoeksma/cordova-plugin-keychain-touch-id.git"
+    "url": "git+https://github.com/jvekariya/cordova-plugin-keychain-touch-id.git"
   },
   "keywords": [
     "TouchID",
